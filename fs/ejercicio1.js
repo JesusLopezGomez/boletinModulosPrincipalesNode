@@ -1,6 +1,4 @@
 const fs = require("fs");
-
-
 /*
 Creación de un archivo:
 Crea un archivo llamado nuevoArchivo.txt utilizando el módulo fs.
